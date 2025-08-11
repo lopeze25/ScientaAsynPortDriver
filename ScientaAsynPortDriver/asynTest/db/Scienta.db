@@ -1,0 +1,6 @@
+record(bo, "Scienta:ZeroSupplies") {
+	field(DESC,"Zero all Scienta HV supplies")
+	field(DTYP, "asynInt32")
+	field(OUT, "@asyn(SCIENTA 0)SCIENTA_ZERO_SUPPLIES")
+	field(SCAN, "Passive")
+}

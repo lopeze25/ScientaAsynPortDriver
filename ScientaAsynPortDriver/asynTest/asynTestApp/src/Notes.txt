@@ -1,0 +1,6 @@
+Make sure to add
+the scienta cpp to the build list
+
+
+then make.exe clean
+and make

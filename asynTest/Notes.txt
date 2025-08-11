@@ -1,0 +1,10 @@
+Hi this is my epics driver for the Scienta R4000 done in Summer 2025 for Argonne National Laboratory.
+
+This is a copy of the driver currently running on glick.
+
+Go to directory
+C:\epics\asynTest\bin\win32-x86 > 
+
+Use command
+asynTest.exe {path to your C: call the startup script st.cmd}
+

@@ -1,9 +1,0 @@
-Welcome to my epics driver for the Scienta R4000.
-This is a copy of the driver currently running on glick.
-
-Go to directory
-C:\epics\asynTest\bin\win32-x86 > 
-
-Use command
-asynTest.exe {path to your C: call the startup script st.cmd}
-

@@ -1,4 +1,0 @@
-include "base.dbd"
-include "asyn.dbd"
-include "devAsynInt32.dbd"
-registrar(ScientaAsynDriverConfigure)
